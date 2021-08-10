@@ -1,5 +1,5 @@
 {
-  "name": "ES6-note-app-MSSQL-database",
+  "name": "mssql-example",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
